@@ -5,7 +5,7 @@
     font-family: Verdana, "DEjaVu Sans", sans-serif;
     background-color: lightpink;
 }
-.second
+#second
 {
     color: blue;
     font-size: 36px;
@@ -14,7 +14,7 @@
 {
     font-size: 24px;
 }
-.fourth
+#fourth
 {
     background-color: lightgreen;
     font-weight: bold;
