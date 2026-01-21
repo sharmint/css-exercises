@@ -2,15 +2,18 @@ div
 {
     background-color: red;
     color: white;
+    font-size: 32px;
 }
 
 p
 {
     background-color: green;
     color: white;
+    font-size: 18px;
 }
 
 button
 {
     background-color: coral;
+    font-size: 18px;
 }
